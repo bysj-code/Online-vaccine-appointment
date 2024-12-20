@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#838A8E",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "在线疫苗预约首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
